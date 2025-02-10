@@ -36,7 +36,9 @@ A simple, interactive to-do list web application that allows users to add, check
 
 ## 📸 Preview  
 
-![To-Do List Preview](images/screenshot.png)  
+
+![Weather App](https://github.com/AbhishekIssei/Web-Development-Projects/blob/d518b280f4085ddaa30167ff1748dffa3081c1bd/Weather%20App/weather.png)
+
 
 ## 📜 License  
 

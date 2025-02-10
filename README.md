@@ -4,7 +4,7 @@ Welcome to my GitHub resume repository! This repository contains my latest resum
 
 📄 About Me
 
-I am an aspiring Front-End Developer with experience in HTML, CSS, JavaScript, SQL, and Python. Passionate about building responsive and user-friendly web applications, I have a strong foundation in data analysis, visualization, and machine learning.
+Aspiring Front-End Developer with experience in HTML, CSS, JavaScript, and SQL. Passionate about building responsive and user-friendly web applications. Skilled in debugging and scripting.
 
 🎯 Skills
 

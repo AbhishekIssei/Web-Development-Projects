@@ -37,7 +37,7 @@ A simple web-based music player built with HTML, CSS, and JavaScript. This proje
 
 ## Screenshots 📸  
 
-![image alt]([https://abhishekk-portfolio-musicplayer.netlify.app/images/musicplayer.png](https://github.com/AbhishekIssei/Web-Development-Projects/blob/d00852f122d32ce62400558aeb54a0602939f652/youtubemusic/musicplayer.png))
+![Music Player UI](https://github.com/AbhishekIssei/Web-Development-Projects/blob/d00852f122d32ce62400558aeb54a0602939f652/youtubemusic/musicplayer.png)
 
 ## Future Enhancements ✨  
 

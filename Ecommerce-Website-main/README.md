@@ -51,8 +51,7 @@ This is a simple eCommerce website built with HTML, CSS, and JavaScript. The pro
 
 ## 📸 Preview  
 
-![Weather App](https://github.com/AbhishekIssei/Web-Development-Projects/blob/4e8e8030842ad39c3deeaa2dc50c9bbcda20c593/Significo-Website%20Project/significo.png)
-![Weather App](https://github.com/AbhishekIssei/Web-Development-Projects/blob/d83cb611cc3acb6db97b6e7a809e81a80f0a3b55/Significo-Website%20Project/significo1.png)
+![Weather App](https://github.com/AbhishekIssei/Web-Development-Projects/blob/7f831291c3c82fd989ba933f80dddbf11c23e18d/Ecommerce-Website-main/Ecommerce.png)
 
 ## Future Enhancements
 - Implement backend functionality for order processing.

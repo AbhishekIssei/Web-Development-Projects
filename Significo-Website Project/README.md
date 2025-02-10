@@ -40,8 +40,9 @@ This project is a modern web development project using **HTML, CSS, JavaScript, 
 - **Locomotive Scroll** for smooth scrolling  
 - **JavaScript (Vanilla)** for interactivity  
 
-## Contributing  
-Contributions are welcome! Feel free to fork the repository and submit a pull request.  
+## 📸 Preview  
+
+![Weather App](https://github.com/AbhishekIssei/Web-Development-Projects/blob/d3073d7d86955853d162ffa68d8d1c9a78f3114a/To%20Do%20List/todo_list.png)
 
 ## License  
 This project is licensed under the **MIT License**.  

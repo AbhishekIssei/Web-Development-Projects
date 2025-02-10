@@ -37,7 +37,7 @@ A simple web-based music player built with HTML, CSS, and JavaScript. This proje
 
 ## Screenshots 📸  
 
-![Music Player UI]([http://127.0.0.1:5500/images/musicplayer.png](https://abhishekk-portfolio-musicplayer.netlify.app//))  
+![Music Player UI](https://abhishekk-portfolio-musicplayer.netlify.app/images/musicplayer.png)
 
 ## Future Enhancements ✨  
 

@@ -42,7 +42,7 @@ This project is a modern web development project using **HTML, CSS, JavaScript, 
 
 ## 📸 Preview  
 
-![Weather App](https://github.com/AbhishekIssei/Web-Development-Projects/blob/d3073d7d86955853d162ffa68d8d1c9a78f3114a/To%20Do%20List/todo_list.png)
+![Weather App](https://github.com/AbhishekIssei/Web-Development-Projects/blob/4e8e8030842ad39c3deeaa2dc50c9bbcda20c593/Significo-Website%20Project/significo.png)
 
 ## License  
 This project is licensed under the **MIT License**.  

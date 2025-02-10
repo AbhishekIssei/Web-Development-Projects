@@ -54,9 +54,10 @@ Weather App/
 - Improve mobile responsiveness
 - Handle errors for invalid city names
 
-## Screenshots
+## Screenshots 📸  
 
-(Include screenshots of your app here)
+![Weather App](https://github.com/AbhishekIssei/Web-Development-Projects/blob/d00852f122d32ce62400558aeb54a0602939f652/youtubemusic/musicplayer.png)
+
 
 ## License
 

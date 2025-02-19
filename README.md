@@ -8,7 +8,7 @@ Aspiring Front-End Developer with experience in HTML, CSS, JavaScript, React and
 
 🎯 Skills
 
-Front-End Development: HTML, CSS, JavaScript
+Front-End Development: HTML, CSS, JavaScript, React
 
 Back-End & Database: SQL
 
